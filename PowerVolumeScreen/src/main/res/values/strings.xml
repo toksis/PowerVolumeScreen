@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PowerVolumeScreen</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="topleft">TopLeft</string>
+    <string name="topRight">TopRight</string>
+    <string name="buttomLeft">ButtomLeft</string>
+    <string name="buttomright" />
+    <string name="bottomright">BottomRight</string>
+    <string name="bottomLeft">BottomLeft</string>
+
+</resources>
